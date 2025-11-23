@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my GitHub
 ---
 #My GitHub page
 Hello! This is my GitHub Pages site.  
